@@ -1,0 +1,12 @@
+{
+    "appTitle": "Moniteur de batterie",
+    "helloWorld": "Bonjour le monde!",
+    "batteryLevel": "Niveau de batterie",
+    "hours": "heures",
+    "minutes": "minutes",
+    "good": "Bon",
+    "moderate": "Modéré",
+    "low": "Faible",
+    "empty": "Il est temps de vider",
+    "full": "Temps de charge complète"
+}
