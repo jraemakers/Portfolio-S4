@@ -43,11 +43,12 @@ Survey, Interviews, Stakeholder analysis and Data analytics
 
     **Research Methods:** Focus Groups, Usability Testing, Interviews
 
-
----------------------------------------
+---
 
 Version: 2.0
+
 ## Research Method 1: Stakeholder Analysis
+
 ## Research Question
 
 **Explanation:** We're asking how using mobile phones can make it easier for businesses and their employees to work from home. This comes from the growing trend of working remotely and the idea that mobile devices can help make things smoother for everyone.
@@ -91,7 +92,7 @@ Survey, Interviews, Stakeholder analysis and Data analytics
 
     **Research Methods:** Focus Groups, Usability Testing, Interviews
 
- ## Research Method 2: Brainstorming
+## Research Method 2: Brainstorming
 
 We asked ChatGPT to provide us with 50 ideas on how to address issues related to remote work after Marcel suggested using ChatGPT. We arrived at the following idea:
 

@@ -25,3 +25,8 @@ In this table we put all the learning outcomes with links to proof I have achiev
 -   Created this portfolio
 -   [Tech Case 9: A battery app for a global audience](./tech_case_9/)
 -   [Duo Case 5: Efficient remote working](https://github.com/jraemakers/Efficient-remote-working)
+
+## Projects
+
+-   [Tech Case 9: A battery app for a global audience](./tech_case_9/)
+-   [Duo Case 5: Efficient remote working](https://github.com/jraemakers/Efficient-remote-working)
