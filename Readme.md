@@ -20,7 +20,7 @@ In this table we put all the learning outcomes with links to proof I have achiev
 
 ## What's changed?
 
-### Iteration 1
+### Week 1 - 3
 
 -   Created this portfolio
 -   [Tech Case 9: A battery app for a global audience](./tech_case_9/)

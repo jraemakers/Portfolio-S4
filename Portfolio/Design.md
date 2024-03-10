@@ -1,5 +1,11 @@
 # Design
 
+## First Design
+
+We started with the following design:
+
+![First Design](../Images/first-iteration-case5.png)
+
 ## Feedback
 
 After the first designes, we asked for feedback and tried to improve the design based on the feedback we got. We got the following feedback:
