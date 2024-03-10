@@ -4,11 +4,11 @@ _By: [Joost Raemakers](https://github.com/jraemakers)_
 
 ## Introduction
 
-In this portfolio I will show you my work for the Smart Mobile semester. This semester is about creating mobile applications. I will show you my work and what I have learned. I will also show you how I have achieved the learning outcomes.
+In this portfolio I will show you my work for the Smart Mobile semester, which is about creating mobile applications. I will show you my work, what I have learned and how I have achieved the learning outcomes.
 
 ## Learning outcomes
 
-In this table we put all the learning outcomes with links to proof I have achieved them.
+In this table we put all the learning outcomes with links to proof that I have achieved them.
 | Learning Outcome | Discription | Proof |
 |----------|----------|----------|
 | 1. Analysis | You show you can convert a problem or opportunity into multiple smart mobile concepts based on thorough analysis. | [Go to proof](./Portfolio/Analysis.md) |
