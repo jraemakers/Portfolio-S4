@@ -32,10 +32,26 @@ class _IngredientsScreenState extends State<IngredientsScreen> {
           setState(() {
             items.removeAt(index);
           });
-          ScaffoldMessenger.of(context).showSnackBar(
-              SnackBar(content: Text("${item["name"]} dismissed")));
+          ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+            content: Text("${item["name"]} removed"),
+            duration: const Duration(milliseconds: 1000),
+          ));
         },
-        background: Container(color: Colors.red),
+        background: Container(
+          color: Colors.red,
+          child: const Row(
+            mainAxisAlignment: MainAxisAlignment.end,
+            children: [
+              Padding(
+                padding: EdgeInsets.only(right: 36.0),
+                child: Icon(
+                  Icons.delete,
+                  color: Colors.white,
+                ),
+              ),
+            ],
+          ),
+        ),
         child: ListTile(
           key: ValueKey(item["name"]),
           leading: Row(
@@ -55,6 +71,10 @@ class _IngredientsScreenState extends State<IngredientsScreen> {
               setState(() {
                 items.removeAt(index);
               });
+              ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+                content: Text("${item["name"]} removed"),
+                duration: const Duration(milliseconds: 250),
+              ));
             },
           ),
         ),
@@ -73,27 +93,62 @@ class _IngredientsScreenState extends State<IngredientsScreen> {
     );
   }
 
+  Future<void> _refresh() async {
+    ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+      content: Text("List refreshed"),
+      duration: Duration(milliseconds: 250),
+    ));
+
+    setState(() {
+      items = [
+        {"name": "Mozzarella Cheese", "image": "mozzarella_cheese.jpg"},
+        {"name": "Pepperoni", "image": "pepperoni.jpg"},
+        {"name": "Tomato Sauce", "image": "tomato_sauce.jpg"},
+        {"name": "Mushrooms", "image": "mushrooms.jpg"},
+        {"name": "Italian Sausage", "image": "italian_sausage.jpg"},
+        {"name": "Bell Peppers", "image": "bell_peppers.jpg"},
+        {"name": "Onions", "image": "onions.jpg"},
+        {"name": "Olives", "image": "olives.jpg"},
+        {"name": "Fresh Basil", "image": "fresh_basil.jpg"},
+        {"name": "Garlic", "image": "garlic.jpg"}
+      ];
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Draggable Ingredient List"),
       ),
-      body: ReorderableListView(
-        onReorder: (oldIndex, newIndex) {
-          setState(() {
-            if (newIndex > oldIndex) {
-              newIndex -= 1;
-            }
-            final item = items.removeAt(oldIndex);
-            items.insert(newIndex, item);
-          });
-        },
-        children: itemTiles(),
+      body: RefreshIndicator(
+        onRefresh: _refresh,
+        child: ReorderableListView(
+          onReorder: (oldIndex, newIndex) {
+            setState(() {
+              if (newIndex > oldIndex) {
+                newIndex -= 1;
+              }
+              final item = items.removeAt(oldIndex);
+              items.insert(newIndex, item);
+            });
+          },
+          children: itemTiles(),
+        ),
       ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: navigateToPizzaScreen,
-        child: const Icon(Icons.arrow_forward),
+      floatingActionButton: Row(
+        mainAxisAlignment: MainAxisAlignment.end,
+        children: [
+          FloatingActionButton(
+            onPressed: _refresh,
+            child: const Icon(Icons.refresh),
+          ),
+          const SizedBox(width: 16),
+          FloatingActionButton(
+            onPressed: navigateToPizzaScreen,
+            child: const Icon(Icons.arrow_forward),
+          ),
+        ],
       ),
     );
   }
