@@ -6,15 +6,15 @@ class PizzaScreen extends StatelessWidget {
 
   const PizzaScreen({super.key, required this.ingredients});
 
-  Map<String, int> getFibonacciIngredients() {
-    final fibonacciNumbers = [1, 1];
-    for (int i = 2; i < ingredients.length; i++) {
-      fibonacciNumbers.add(fibonacciNumbers[i - 1] + fibonacciNumbers[i - 2]);
-    }
-
+  Map<String, int> generateFibonacciIngredients(List<String> ingredients) {
     Map<String, int> fibonacciIngredients = {};
+    int a = 1, b = 1;
+
     for (int i = 0; i < ingredients.length; i++) {
-      fibonacciIngredients[ingredients[i]] = fibonacciNumbers[i];
+      fibonacciIngredients[ingredients[i]] = a;
+      int nextFib = a + b;
+      a = b;
+      b = nextFib;
     }
 
     return fibonacciIngredients;
@@ -22,7 +22,8 @@ class PizzaScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    Map<String, int> ingredientsWithFibonacci = getFibonacciIngredients();
+    Map<String, int> fibonacciIngredients =
+        generateFibonacciIngredients(ingredients);
 
     return Scaffold(
       appBar: AppBar(
@@ -34,7 +35,7 @@ class PizzaScreen extends StatelessWidget {
             child: Center(
               child: CustomPaint(
                 size: const Size(200, 200),
-                painter: PizzaPainter(ingredients: ingredientsWithFibonacci),
+                painter: PizzaPainter(ingredients: fibonacciIngredients),
               ),
             ),
           ),
@@ -43,7 +44,7 @@ class PizzaScreen extends StatelessWidget {
               itemCount: ingredients.length,
               itemBuilder: (context, index) {
                 String ingredient = ingredients[index];
-                int amount = ingredientsWithFibonacci[ingredient] ?? 0;
+                int amount = fibonacciIngredients[ingredient] ?? 0;
                 Color color = Colors.primaries[index % Colors.primaries.length];
                 return ListTile(
                   title: Text(ingredient),

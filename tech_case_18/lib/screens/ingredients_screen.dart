@@ -34,7 +34,7 @@ class _IngredientsScreenState extends State<IngredientsScreen> {
           });
           ScaffoldMessenger.of(context).showSnackBar(SnackBar(
             content: Text("${item["name"]} removed"),
-            duration: const Duration(milliseconds: 1000),
+            duration: const Duration(milliseconds: 250),
           ));
         },
         background: Container(
