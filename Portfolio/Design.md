@@ -39,7 +39,7 @@ In our figma you can see the design process we went through. We started with a s
 **Introduction:**
 I started with a brief introduction about the goal of the user test and gave an explanation about our project to the users.
 
-Goals:
+**Goals:**
 The goals of this user test is that we get to know if our app is useful for our users. We want our users to change their behaviour depending on the outcome of our app and be better prepared for their trip.
 
 **Scenario and test:**
