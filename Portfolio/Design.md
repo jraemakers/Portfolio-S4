@@ -1,20 +1,62 @@
 # Design
 
-## First Design
+## Week 1 - 3
+
+### First Design
 
 We started with the following design:
 
 ![First Design](../Images/first-iteration-case5.png)
 
-## Feedback
+### Feedback
 
 After the first designes, we asked for feedback and tried to improve the design based on the feedback we got. We got the following feedback:
 
 ![Feedback](../Images/feedback_petra.png)
 
-## Final Design
+### Final Design
 
 ![Home Page](../Images/picture1.png)
 ![Moods Page](../Images/picture2.png)
 
 If you want to see the prototype in action, click [here](https://www.figma.com/file/crZXBvnwvBReC5GO1RuGAu/Justin's-Prototype-Remote-Working).
+
+## Week 4 - 9
+
+In our figma you can see the design process we went through. We started with a simple design and iterated on that design. We asked for feedback and improved the design based on the feedback we got. We also did some user testing to see if the design was user friendly. You can see out figma [here](https://www.figma.com/file/Te79kCJxemQHlWli2oAud8/WEATHER-APP).
+
+### User Testing
+
+**Introduction:**
+I started with a brief introduction about the goal of the user test and gave an explanation about our project to the users.
+
+Goals:
+The goals of this user test is that we get to know if our app is useful for our users. We want our users to change their behaviour depending on the outcome of our app and be better prepared for their trip.
+
+**Scenario and test:**
+The first user got this scenario. “You are at home and you want to go to school by bike.” He filled in the text field and put the city where his school was located. It gave him a rainy cloud together with a raincoat. I asked him, what does this mean and what will you do? He said that it meant that it will rain from his home to school and that he will take a raincoat with him and go by car instead of by bike.
+
+The second user got the scenario. “You are at home and you want to go to your girlfriend.” He also filled in the text field with the location of his girlfriend’s home and it gave him a normal cloud and a green check mark. I asked him what does it mean and what do you do with this information. He said that it won’t rain on the way and that he won’t take anything like an umbrella of raincoat with him. He however will put on his winter jacket and a hoodie because it is only 10 degrees outside.
+
+**Test execution and result:**
+The two users went trough the test very quick and easy. They immediately filled in the text field of their destination, got information, knew what it meant and changed their plan based on this. The test was a success, and this gives us the green light to start coding the real thing.
+
+### Which view does our users like the best?
+
+![Home Page](../Images/question.png)
+
+| Name   | Answer |
+| ------ | ------ |
+| Koen   | A      |
+| Sjoerd | B      |
+| Jarno  | A      |
+| Joris  | A      |
+| Jasper | A      |
+| Paul   | A      |
+| Steven | A      |
+| Jens   | B      |
+| Tim    | A      |
+
+**Explanation:**
+
+We got feedback from Erik about our starting view. Previously we had D, but after asking our users and target group about which starting view, they liked the best we concluded that our users found view A the cleanest, clear, and overall, the best out of the 4.
