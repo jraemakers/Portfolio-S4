@@ -32,7 +32,7 @@ If you want to see the prototype in action, click [here](https://www.figma.com/f
 
 ## Week 4 - 9
 
-In our figma you can see the design process we went through. We started with a simple design and iterated on that design. We asked for feedback and improved the design based on the feedback we got. We also did some user testing to see if the design was user friendly. You can see out figma [here](https://www.figma.com/file/Te79kCJxemQHlWli2oAud8/WEATHER-APP).
+In our figma you can see the design process we went through. We started with a simple design and iterated on that design. We asked for feedback and improved the design based on the feedback we got. We also did some user testing to see if the design was user friendly. You can see our figma [here](https://www.figma.com/file/Te79kCJxemQHlWli2oAud8/WEATHER-APP).
 
 ### User Testing
 
