@@ -1,5 +1,13 @@
 # Realisation
 
+-   [Realisation](#realisation)
+    -   [Week 1 - 3](#week-1---3)
+        -   [Tech Case 9: A battery app for a global audience](#tech-case-9-a-battery-app-for-a-global-audience)
+        -   [Duo Case 5: Efficient remote working](#duo-case-5-efficient-remote-working)
+    -   [week 4 - 9](#week-4---9)
+        -   [Tech Case 18: Pizza Fibonacci Creator](#tech-case-18-pizza-fibonacci-creator)
+        -   [Duo Case 7: Rain Radar](#duo-case-7-rain-radar)
+
 ## Week 1 - 3
 
 ### Tech Case 9: A battery app for a global audience

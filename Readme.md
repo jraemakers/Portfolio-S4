@@ -30,7 +30,7 @@ In this table we put all the learning outcomes with links to proof that I have a
 
 -   [Duo Case 7: Rain Radar](https://github.com/jraemakers/how-wet-will-i-get)
 -   [Tech Case 18: Pizza Fibonacci Creator](./tech_case_18/)
--
+-   Updated this portfolio
 
 ## Projects
 
