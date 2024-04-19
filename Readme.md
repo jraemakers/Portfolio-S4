@@ -26,7 +26,15 @@ In this table we put all the learning outcomes with links to proof that I have a
 -   [Tech Case 9: A battery app for a global audience](./tech_case_9/)
 -   [Duo Case 5: Efficient remote working](https://github.com/jraemakers/Efficient-remote-working)
 
+### Week 4 - 9
+
+-   [Duo Case 7: Rain Radar](https://github.com/jraemakers/how-wet-will-i-get)
+-   [Tech Case 18: Pizza Fibonacci Creator](./tech_case_18/)
+-
+
 ## Projects
 
 -   [Tech Case 9: A battery app for a global audience](./tech_case_9/)
 -   [Duo Case 5: Efficient remote working](https://github.com/jraemakers/Efficient-remote-working)
+-   [Tech Case 18: Pizza Fibonacci Creator](./tech_case_18/)
+-   [Duo Case 7: Rain Radar](https://github.com/jraemakers/how-wet-will-i-get)
