@@ -1,5 +1,14 @@
 # Design
 
+-   [Design](#design)
+    -   [Week 1 - 3](#week-1---3)
+        -   [First Design](#first-design)
+        -   [Feedback](#feedback)
+        -   [Final Design](#final-design)
+    -   [Week 4 - 9](#week-4---9)
+        -   [User Testing](#user-testing)
+        -   [Which view does our users like the best?](#which-view-does-our-users-like-the-best)
+
 ## Week 1 - 3
 
 ### First Design
