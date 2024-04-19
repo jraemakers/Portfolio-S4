@@ -2,6 +2,14 @@
 
 _By: [Joost Raemakers](https://github.com/jraemakers)_
 
+-   [S4 - Smart Mobile](#s4---smart-mobile)
+    -   [Introduction](#introduction)
+    -   [Learning outcomes](#learning-outcomes)
+    -   [What's changed?](#whats-changed)
+        -   [Week 1 - 3](#week-1---3)
+        -   [Week 4 - 9](#week-4---9)
+    -   [Projects](#projects)
+
 ## Introduction
 
 In this portfolio I will show you my work for the Smart Mobile semester, which is about creating mobile applications. I will show you my work, what I have learned and how I have achieved the learning outcomes.

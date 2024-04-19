@@ -37,7 +37,7 @@ This app is a pizza creator. You can choose the ingredients you want on your piz
 
 ### Duo Case 7: Rain Radar
 
-In this app you can enter the location where you want to go and it will tell you what piece of clothing you need for the rain. It also shows the temperature. So you can make better decisions about what to wear and you dont have to be cold or wet.
+In this app you can enter the location where you want to go and it will tell you what piece of clothing you need for the rain. It also shows the temperature. So you can make better decisions about what to wear and you dont have to be cold or wet. This make use of the OpenWeatherMap API.
 
 <img src="../Images/Screenshot_20240417_113422.jpg" width="300" alt="Rain Radar">
 <img src="../Images/Screenshot_20240417_113414.jpg" width="300" alt="Rain Radar">
