@@ -49,7 +49,7 @@ After the first designes, I asked for feedback and tried to improve the design b
 
 ![Checkpoint 7](../Images/feedback-krom-3.png)
 
-After this we started brainstorming about the next steps. You can find the results in the [Management & Control](./Analysis.md###brainstorming) section.
+After this we started brainstorming about the next steps. You can find the results in the [Analysis](./Analysis.md###brainstorming) section.
 
 ![Checkpoint 8](../Images/feedback-krom-4.png)
 
