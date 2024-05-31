@@ -1,13 +1,13 @@
 # Advice
 
-- [Advice](#advice)
-  - [Week 1 - 3](#week-1---3)
-  - [Week 4 - 9](#week-4---9)
-    - [Checkpoint 1](#checkpoint-1)
-    - [Checkpoint 2](#checkpoint-2)
-    - [Checkpoint 3](#checkpoint-3)
-    - [Checkpoint 4](#checkpoint-4)
-  - [Week 10 - 18](#week-10---18)
+-   [Advice](#advice)
+    -   [Week 1 - 3](#week-1---3)
+    -   [Week 4 - 9](#week-4---9)
+        -   [Checkpoint 1](#checkpoint-1)
+        -   [Checkpoint 2](#checkpoint-2)
+        -   [Checkpoint 3](#checkpoint-3)
+        -   [Checkpoint 4](#checkpoint-4)
+    -   [Week 10 - 18](#week-10---18)
 
 ## Week 1 - 3
 
@@ -46,6 +46,8 @@ We did some research wich home screen would be the best for our app based on pos
 After the first designes, I asked for feedback and tried to improve the design based on the feedback I got. See the end result in the [Design](./Design.md###figma-design) section.
 
 ![Checkpoint 6](../Images/feedback-krom-2.png)
+
+After the feedback on our User Analysis we updated the [User Analysis](./Analysis.md###user-analysis) section.
 
 ![Checkpoint 7](../Images/feedback-krom-3.png)
 
