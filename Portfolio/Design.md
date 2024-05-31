@@ -1,13 +1,16 @@
 # Design
 
--   [Design](#design)
-    -   [Week 1 - 3](#week-1---3)
-        -   [First Design](#first-design)
-        -   [Feedback](#feedback)
-        -   [Final Design](#final-design)
-    -   [Week 4 - 9](#week-4---9)
-        -   [User Testing](#user-testing)
-        -   [Which view does our users like the best?](#which-view-does-our-users-like-the-best)
+- [Design](#design)
+  - [Week 1 - 3](#week-1---3)
+    - [First Design](#first-design)
+    - [Feedback](#feedback)
+    - [Final Design](#final-design)
+  - [Week 4 - 9](#week-4---9)
+    - [User Testing](#user-testing)
+    - [Which view does our users like the best?](#which-view-does-our-users-like-the-best)
+  - [Week 10 - 18](#week-10---18)
+    - [Paper sketches](#paper-sketches)
+    - [Figma Design](#figma-design)
 
 ## Week 1 - 3
 
@@ -69,3 +72,26 @@ The two users went trough the test very quick and easy. They immediately filled 
 **Explanation:**
 
 We got feedback from Erik about our starting view. Previously we had D, but after asking our users and target group about which starting view, they liked the best we concluded that our users found view A the cleanest, clear, and overall, the best out of the 4.
+
+## Week 10 - 18
+
+### Paper sketches
+
+After the brainstorming session we started with paper sketches. Every team member made a paper sketch of the idea they liked the most. We discussed the sketches and combined the best parts of every sketch to make a plan for the final design. The first sketch is the one I made.
+
+<img src="../Images/paper-sketches-1.jpg" width="300" alt="Paper sketches">
+<img src="../Images/paper-sketches-2.jpg" width="300" alt="Paper sketches">
+<img src="../Images/paper-sketches-3.jpg" width="300" alt="Paper sketches">
+<img src="../Images/paper-sketches-4.jpg" width="300" alt="Paper sketches">
+<img src="../Images/paper-sketches-5.jpg" width="300" alt="Paper sketches">
+<img src="../Images/paper-sketches-6.jpg" width="300" alt="Paper sketches">
+<img src="../Images/paper-sketches-7.jpg" width="300" alt="Paper sketches">
+
+### Figma Design
+
+After the paper sketches we started with the design in Figma. We made a design that was based on the paper sketches. We asked for feedback and iterated on the design. The final design can be seen in the figma link below. With every iteration we have some notes about what we changed and why we changed it. You can see our figma [here](https://www.figma.com/design/MxIjcpuEGOVHNoTNXMyNQW/OFF?node-id=0-1&t=XwOaBzEWRCdIxRRx-1).
+
+I made the diary page and new event page see images below.
+
+![Diary Page](../Images/page1.png)
+![Add Event Page](../Images/page2.png)

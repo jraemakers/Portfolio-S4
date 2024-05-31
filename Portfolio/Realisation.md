@@ -48,9 +48,8 @@ In this app you can enter the location where you want to go and it will tell you
 
 ### Industry Project: Krom 2
 
-We made an app to help people with coping with sensory overload. In the app you can make a planning so won't get surprised by things. And there is a diary where you can write down what you have done and how you felt. I personally made the page where you can create a new event. See the video below for a demonstration.
-
+We made an app to help people with coping with sensory overload. In the app you can make a planning so won't get surprised by things. And there is a diary where you can write down what you have done and how you felt. I personally made the page where you can create a new event. See the images below.
+<img src="../Images/Screenshot_20240531_131811.jpg" width="300" alt="Krom">
 <img src="../Images/Screenshot_20240531_114233.jpg" width="300" alt="Krom">
 <img src="../Images/Screenshot_20240531_114245.jpg" width="300" alt="Krom">
 <img src="../Images/Screenshot_20240531_114529.jpg" width="300" alt="Krom">
-<video src="../Images/Screen_Recording_20240531_112613.mp4" width="300"  controls>

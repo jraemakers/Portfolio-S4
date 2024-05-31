@@ -1,28 +1,31 @@
 # Analysis
 
--   [Analysis](#analysis)
-    -   [Week 1 - 3](#week-1---3)
-        -   [Research Question](#research-question)
-        -   [Sub-Questions](#sub-questions)
-        -   [Research Method 1: Stakeholder Analysis](#research-method-1-stakeholder-analysis)
-        -   [Research Question](#research-question-1)
-        -   [Sub-Questions](#sub-questions-1)
-        -   [Research Method 2: Brainstorming](#research-method-2-brainstorming)
-        -   [Research Method 3: Survey](#research-method-3-survey)
-    -   [Week 4 - 9](#week-4---9)
-        -   [Research Methods used:](#research-methods-used)
-        -   [Ideation Methods used:](#ideation-methods-used)
-        -   [Research method 1: Stakeholder analysis](#research-method-1-stakeholder-analysis-1)
-            -   [Sub-questions:](#sub-questions-2)
-        -   [Research method 2: Survey](#research-method-2-survey)
-        -   [Research method 3: Interviews](#research-method-3-interviews)
-        -   [Ideation method 1: Brainstorming](#ideation-method-1-brainstorming)
-        -   [Ideation method 2: Mind-mapping](#ideation-method-2-mind-mapping)
-        -   [Ideation method 3: Worst-Possible Idea](#ideation-method-3-worst-possible-idea)
-        -   [Ideation method 4: Sketching](#ideation-method-4-sketching)
-        -   [For whom are we making this app? Who is are our users?](#for-whom-are-we-making-this-app-who-is-are-our-users)
-        -   [Why would our users use our app?](#why-would-our-users-use-our-app)
-        -   [What is our final goal?](#what-is-our-final-goal)
+- [Analysis](#analysis)
+  - [Week 1 - 3](#week-1---3)
+    - [Research Question](#research-question)
+    - [Sub-Questions](#sub-questions)
+    - [Research Method 1: Stakeholder Analysis](#research-method-1-stakeholder-analysis)
+    - [Research Question](#research-question-1)
+    - [Sub-Questions](#sub-questions-1)
+    - [Research Method 2: Brainstorming](#research-method-2-brainstorming)
+    - [Research Method 3: Survey](#research-method-3-survey)
+  - [Week 4 - 9](#week-4---9)
+    - [Research Methods used:](#research-methods-used)
+    - [Ideation Methods used:](#ideation-methods-used)
+    - [Research method 1: Stakeholder analysis](#research-method-1-stakeholder-analysis-1)
+      - [Sub-questions:](#sub-questions-2)
+    - [Research method 2: Survey](#research-method-2-survey)
+    - [Research method 3: Interviews](#research-method-3-interviews)
+    - [Ideation method 1: Brainstorming](#ideation-method-1-brainstorming)
+    - [Ideation method 2: Mind-mapping](#ideation-method-2-mind-mapping)
+    - [Ideation method 3: Worst-Possible Idea](#ideation-method-3-worst-possible-idea)
+    - [Ideation method 4: Sketching](#ideation-method-4-sketching)
+    - [For whom are we making this app? Who is are our users?](#for-whom-are-we-making-this-app-who-is-are-our-users)
+    - [Why would our users use our app?](#why-would-our-users-use-our-app)
+    - [What is our final goal?](#what-is-our-final-goal)
+  - [Week 10 - 18](#week-10---18)
+    - [Brainstorming](#brainstorming)
+    - [Reseach Existing Apps](#reseach-existing-apps)
 
 ## Week 1 - 3
 
@@ -234,3 +237,15 @@ In both scenarios our users are way different since one is more exposed to the r
 ### What is our final goal?
 
 Our final goal is that people are actually using our app and it has an actual purpose for them. We want our users to fill in where they want to go, if it is raining on the way they will take an umbrella or raincoat, or they will wait until the rain has passed. We want our users to be prepared for the rain that will fall during their trip.
+
+## Week 10 - 18
+
+### Brainstorming
+
+We started with a brainstorming session to get know what sensory overload is and how we can prevent it. We came up with the following ideas:
+
+![Brainstorming](../Images/brainstorming.jpg)
+
+### Reseach Existing Apps
+
+I looked at some existing apps to see how they are dealing with the problem of sensory overload. We looked at the apps from Headspace, Calm and Endel. You can find the research [here](https://github.com/jraemakers/industry-project-krom2/blob/main/Research/Existing-apps.md).
