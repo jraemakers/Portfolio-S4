@@ -43,15 +43,15 @@ We did some research wich home screen would be the best for our app based on pos
 
 ![Checkpoint 5](../Images/feedback-krom-1.png)
 
-After the first designes, I asked for feedback and tried to improve the design based on the feedback I got. See the end result in the [Design](./Design.md###figma-design) section.
+After the first designes, I asked for feedback and tried to improve the design based on the feedback I got. See the end result in the [Design](./Design.md#figma-design) section.
 
 ![Checkpoint 6](../Images/feedback-krom-2.png)
 
-After the feedback on our User Analysis we updated the [User Analysis](./Analysis.md###user-analysis) section.
+After the feedback on our User Analysis we updated the [User Analysis](./Analysis.md#user-analysis) section.
 
 ![Checkpoint 7](../Images/feedback-krom-3.png)
 
-After this we started brainstorming about the next steps. You can find the results in the [Analysis](./Analysis.md###brainstorming) section.
+After this we started brainstorming about the next steps. You can find the results in the [Analysis](./Analysis.md#brainstorming) section.
 
 ![Checkpoint 8](../Images/feedback-krom-4.png)
 
