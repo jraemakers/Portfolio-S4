@@ -53,4 +53,4 @@ We made an app to help people with coping with sensory overload. In the app you 
 <img src="../Images/Screenshot_20240531_114233.jpg" width="300" alt="Krom">
 <img src="../Images/Screenshot_20240531_114245.jpg" width="300" alt="Krom">
 <img src="../Images/Screenshot_20240531_114529.jpg" width="300" alt="Krom">
-<video src="../Images/Screen_Recording_20240531_112613.mp4" width="300"  controls />
+<video src="../Images/Screen_Recording_20240531_112613.mp4" width="300"  controls>
