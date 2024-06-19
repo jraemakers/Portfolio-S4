@@ -23,6 +23,10 @@
         -   [For whom are we making this app? Who is are our users?](#for-whom-are-we-making-this-app-who-is-are-our-users)
         -   [Why would our users use our app?](#why-would-our-users-use-our-app)
         -   [What is our final goal?](#what-is-our-final-goal)
+    -   [Week 10 - 18](#week-10---18)
+        -   [Brainstorming](#brainstorming)
+        -   [Reseach Existing Apps](#reseach-existing-apps)
+        -   [User Analysis](#user-analysis)
 
 ## Week 1 - 3
 
@@ -234,3 +238,19 @@ In both scenarios our users are way different since one is more exposed to the r
 ### What is our final goal?
 
 Our final goal is that people are actually using our app and it has an actual purpose for them. We want our users to fill in where they want to go, if it is raining on the way they will take an umbrella or raincoat, or they will wait until the rain has passed. We want our users to be prepared for the rain that will fall during their trip.
+
+## Week 10 - 18
+
+### Brainstorming
+
+We started with a brainstorming session to get know what sensory overload is and how we can prevent it. We came up with the following ideas:
+
+![Brainstorming](../Images/brainstorming.jpg)
+
+### Reseach Existing Apps
+
+I looked at some existing apps to see how they are dealing with the problem of sensory overload. We looked at the apps from Headspace, Calm and Endel. You can find the research [here](https://github.com/jraemakers/industry-project-krom2/blob/main/Research/Existing-apps.md).
+
+### User Analysis
+
+Justin and I did some user analysis to see what our users want to see in our app. You can find the results [here](../Documents/User%20Research%20and%20Needs%20Analysis.pdf).

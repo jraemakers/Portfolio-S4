@@ -8,6 +8,7 @@ _By: [Joost Raemakers](https://github.com/jraemakers)_
     -   [What's changed?](#whats-changed)
         -   [Week 1 - 3](#week-1---3)
         -   [Week 4 - 9](#week-4---9)
+        -   [Week 10 - 18](#week-10---18)
     -   [Projects](#projects)
 
 ## Introduction
@@ -40,9 +41,15 @@ In this table we put all the learning outcomes with links to proof that I have a
 -   [Tech Case 18: Pizza Fibonacci Creator](./tech_case_18/)
 -   Updated this portfolio
 
+### Week 10 - 18
+
+-   [Industry Project: Krom 2](https://github.com/jraemakers/industry-project-krom2)
+-   Updated this portfolio
+
 ## Projects
 
 -   [Tech Case 9: A battery app for a global audience](./tech_case_9/)
 -   [Duo Case 5: Efficient remote working](https://github.com/jraemakers/Efficient-remote-working)
 -   [Tech Case 18: Pizza Fibonacci Creator](./tech_case_18/)
 -   [Duo Case 7: Rain Radar](https://github.com/jraemakers/how-wet-will-i-get)
+-   [Industry Project: Krom 2](https://github.com/jraemakers/industry-project-krom2)

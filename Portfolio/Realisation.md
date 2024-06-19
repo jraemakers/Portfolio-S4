@@ -7,6 +7,8 @@
     -   [week 4 - 9](#week-4---9)
         -   [Tech Case 18: Pizza Fibonacci Creator](#tech-case-18-pizza-fibonacci-creator)
         -   [Duo Case 7: Rain Radar](#duo-case-7-rain-radar)
+    -   [Week 10 - 18](#week-10---18)
+        -   [Industry Project: Krom 2](#industry-project-krom-2)
 
 ## Week 1 - 3
 
@@ -41,3 +43,14 @@ In this app you can enter the location where you want to go and it will tell you
 
 <img src="../Images/Screenshot_20240417_113422.jpg" width="300" alt="Rain Radar">
 <img src="../Images/Screenshot_20240417_113414.jpg" width="300" alt="Rain Radar">
+
+## Week 10 - 18
+
+### Industry Project: Krom 2
+
+We made an app to help people with coping with sensory overload. In the app you can make a planning so won't get surprised by things. And there is a diary where you can write down what you have done and how you felt. I personally made the page where you can create a new event. See the images below.
+
+<img src="../Images/Screenshot_20240531_131811.jpg" width="300" alt="Krom">
+<img src="../Images/Screenshot_20240531_114233.jpg" width="300" alt="Krom">
+<img src="../Images/Screenshot_20240531_114245.jpg" width="300" alt="Krom">
+<img src="../Images/Screenshot_20240531_114529.jpg" width="300" alt="Krom">

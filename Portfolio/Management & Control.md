@@ -7,6 +7,8 @@
     -   [Week 4 - 9](#week-4---9)
         -   [Feedback duo case](#feedback-duo-case-1)
         -   [Feedback tech case](#feedback-tech-case-1)
+    -   [Week 10 - 18](#week-10---18)
+        -   [Feedback industry project](#feedback-industry-project)
 
 ## Week 1 -3
 
@@ -30,3 +32,14 @@ I have asked for feedback on my development process to assure the quality in dir
 ### Feedback tech case
 
 ![Feedback](../Images/feedback_tech_2.png)
+
+## Week 10 - 18
+
+### Feedback industry project
+
+![Feedback](../Images/feedback-krom-1.png)
+![Feedback](../Images/feedback-krom-2.png)
+![Feedback](../Images/feedback-krom-3.png)
+![Feedback](../Images/feedback-krom-4.png)
+![Feedback](../Images/feedback-krom-5.png)
+![Feedback](../Images/feedback-krom-6.png)
