@@ -253,4 +253,4 @@ I looked at some existing apps to see how they are dealing with the problem of s
 
 ### User Analysis
 
-Justin and I did some user analysis to see what our users want to see in our app. You can find the results [here](../Documents/User%20Research%20and%20Needs%20Analysis.pdf).
+Justin and I did some user analysis to see what our users want to see in our app. You can find the results [here](../Documents/usertest_w_personas.pdf).
