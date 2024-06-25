@@ -7,7 +7,7 @@
         -   [Checkpoint 2](#checkpoint-2)
         -   [Checkpoint 3](#checkpoint-3)
         -   [Checkpoint 4](#checkpoint-4)
-    -   [Week 10 - 18](#week-10---18)
+    -   [Week 10 - 15](#week-10---15)
 
 ## Week 1 - 3
 
@@ -39,7 +39,7 @@ We documented for which user groups we designed the app in the [Analysis](./Anal
 
 We did some research wich home screen would be the best for our app based on possible user groups. You can find the results in the [Design](./Design.md#which-view-does-our-users-like-the-best) section.
 
-## Week 10 - 18
+## Week 10 - 15
 
 ![Checkpoint 5](../Images/feedback-krom-1.png)
 

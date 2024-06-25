@@ -7,7 +7,7 @@
     -   [week 4 - 9](#week-4---9)
         -   [Tech Case 18: Pizza Fibonacci Creator](#tech-case-18-pizza-fibonacci-creator)
         -   [Duo Case 7: Rain Radar](#duo-case-7-rain-radar)
-    -   [Week 10 - 18](#week-10---18)
+    -   [Week 10 - 15](#week-10---15)
         -   [Industry Project: Krom 2](#industry-project-krom-2)
 
 ## Week 1 - 3
@@ -44,7 +44,7 @@ In this app you can enter the location where you want to go and it will tell you
 <img src="../Images/Screenshot_20240417_113422.jpg" width="300" alt="Rain Radar">
 <img src="../Images/Screenshot_20240417_113414.jpg" width="300" alt="Rain Radar">
 
-## Week 10 - 18
+## Week 10 - 15
 
 ### Industry Project: Krom 2
 
