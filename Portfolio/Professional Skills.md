@@ -1,7 +1,7 @@
--   [Professional Skills](#professional-skills)
-    -   [Scrum](#scrum)
-        -   [Scrum board](#scrum-board)
-        -   [Retrospective](#retrospective)
+- [Professional Skills](#professional-skills)
+  - [Scrum](#scrum)
+    - [Scrum board](#scrum-board)
+    - [Retrospective](#retrospective)
 
 # Professional Skills
 

@@ -1,14 +1,14 @@
 # Management & Control
 
--   [Management \& Control](#management--control)
-    -   [Week 1 -3](#week-1--3)
-        -   [Feedback duo case](#feedback-duo-case)
-        -   [Feedback tech case](#feedback-tech-case)
-    -   [Week 4 - 9](#week-4---9)
-        -   [Feedback duo case](#feedback-duo-case-1)
-        -   [Feedback tech case](#feedback-tech-case-1)
-    -   [Week 10 - 15](#week-10---15)
-        -   [Feedback industry project](#feedback-industry-project)
+- [Management \& Control](#management--control)
+  - [Week 1 -3](#week-1--3)
+    - [Feedback duo case](#feedback-duo-case)
+    - [Feedback tech case](#feedback-tech-case)
+  - [Week 4 - 9](#week-4---9)
+    - [Feedback duo case](#feedback-duo-case-1)
+    - [Feedback tech case](#feedback-tech-case-1)
+  - [Week 10 - 15](#week-10---15)
+    - [Feedback industry project](#feedback-industry-project)
 
 ## Week 1 -3
 

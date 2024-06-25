@@ -2,15 +2,15 @@
 
 _By: [Joost Raemakers](https://github.com/jraemakers)_
 
--   [S4 - Smart Mobile](#s4---smart-mobile)
-    -   [Introduction](#introduction)
-    -   [Learning outcomes](#learning-outcomes)
-    -   [What's changed?](#whats-changed)
-        -   [Week 1 - 3](#week-1---3)
-        -   [Week 4 - 9](#week-4---9)
-        -   [Week 10 - 15](#week-10---15)
-        -   [Week 16 - 18](#week-16---18)
-    -   [Projects](#projects)
+- [S4 - Smart Mobile](#s4---smart-mobile)
+  - [Introduction](#introduction)
+  - [Learning outcomes](#learning-outcomes)
+  - [What's changed?](#whats-changed)
+    - [Week 1 - 3](#week-1---3)
+    - [Week 4 - 9](#week-4---9)
+    - [Week 10 - 15](#week-10---15)
+    - [Week 16 - 18](#week-16---18)
+  - [Projects](#projects)
 
 ## Introduction
 

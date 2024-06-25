@@ -1,13 +1,13 @@
 # Advice
 
--   [Advice](#advice)
-    -   [Week 1 - 3](#week-1---3)
-    -   [Week 4 - 9](#week-4---9)
-        -   [Checkpoint 1](#checkpoint-1)
-        -   [Checkpoint 2](#checkpoint-2)
-        -   [Checkpoint 3](#checkpoint-3)
-        -   [Checkpoint 4](#checkpoint-4)
-    -   [Week 10 - 15](#week-10---15)
+- [Advice](#advice)
+  - [Week 1 - 3](#week-1---3)
+  - [Week 4 - 9](#week-4---9)
+    - [Checkpoint 1](#checkpoint-1)
+    - [Checkpoint 2](#checkpoint-2)
+    - [Checkpoint 3](#checkpoint-3)
+    - [Checkpoint 4](#checkpoint-4)
+  - [Week 10 - 15](#week-10---15)
 
 ## Week 1 - 3
 
