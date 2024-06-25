@@ -8,6 +8,7 @@
     - [Checkpoint 3](#checkpoint-3)
     - [Checkpoint 4](#checkpoint-4)
   - [Week 10 - 15](#week-10---15)
+  - [Week 16 - 18](#week-16---18)
 
 ## Week 1 - 3
 
@@ -56,3 +57,9 @@ After this we started brainstorming about the next steps. You can find the resul
 ![Checkpoint 8](../Images/feedback-krom-4.png)
 
 After discussing we removed the question at the end of the app. You can find the results in the [Figma Design](https://www.figma.com/design/MxIjcpuEGOVHNoTNXMyNQW/OFF?node-id=0-1&t=vJPsyNbQMcoQfIVr-1).
+
+## Week 16 - 18
+
+![Checkpoint 9](../Images/Schermafbeelding%202024-06-25%20174116.png)
+
+After the feedback on the first sketch I made multiple sketches. You can find the results in the [Design](./Design.md#multiple-sketches) section.
