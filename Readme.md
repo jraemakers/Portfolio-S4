@@ -51,7 +51,7 @@ In this table we put all the learning outcomes with links to proof that I have a
 
 -   Duo Case 2: Race Watch
     -   [Analysis](./Portfolio/Analysis.md#week-16---18)
-    -   [Design](./portfolio/Design.md#week-16---18)
+    -   [Design](./Portfolio/Design.md#week-16---18)
 -   Updated this portfolio
 
 ## Projects
